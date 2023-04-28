@@ -39,7 +39,6 @@ struct s_c_list	*add_node(struct s_c_list *head, struct s_c_list *node)
 	return (head);
 }
 
-
 void	print_list(struct s_c_list *node)
 {
 	char	c;
